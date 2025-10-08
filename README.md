@@ -1,1 +1,1 @@
-Url:https://aaryan-jais.github.io/Aaryan-Portfolio/
+Url: https://aaryan-jais.github.io/Aaryan-Portfolio/
