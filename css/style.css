@@ -37,7 +37,7 @@ nav{
 	position:fixed;
 	top:0;
 	left:0;
-	z-index:9;
+	z-index:90;
 	padding:10px 6%;
 	background-color:rgba(0,0,0,0.2);
 }
@@ -464,7 +464,7 @@ span.radius{
 	position:fixed;
 	right:10px;
 	top:10%;
-	z-index:25;
+	z-index:995;
 	color:white;
 	letter-spacing:3px;
 	font-size:15px;
@@ -1511,6 +1511,7 @@ padding:30px;
 	}
 
 }
+
 
 
 
